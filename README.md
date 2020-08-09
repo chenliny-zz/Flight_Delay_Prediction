@@ -14,4 +14,4 @@ Datasets used in the project include the following:
 - airport dataset from the [US Department of Transportation](https://www.transtats.bts.gov/DL_SelectFields.asp)
 <br>**(18,097 x 10 dataframe)**
 
-The project can be directly accessed via [Spark Playground - Flight Delay Prediction](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4292307494740474/1474730470433170/6190017855571830/latest.html). This repository also contains the .dbc and .py versions of the Databricks notebook.
+**The project can be directly accessed via [Spark Playground - Flight Delay Prediction](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4292307494740474/1474730470433170/6190017855571830/latest.html)**. This repository also contains the .dbc and .py versions of the Databricks notebook.
