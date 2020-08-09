@@ -1,4 +1,5 @@
 ## [Spark Playground - Flight Delay Prediction](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4292307494740474/1474730470433170/6190017855571830/latest.html)
+**Access the project via Databricks [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4292307494740474/1474730470433170/6190017855571830/latest.html)**
 ##### Machine Learning At Scale (Spark, Spark SQL, Spark ML)
 ![image](/images/sparkjobs.png)
 
