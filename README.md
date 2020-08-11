@@ -1,6 +1,7 @@
 ## [Spark Playground - Flight Delay Prediction](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4292307494740474/1474730470433170/6190017855571830/latest.html)
-**Access the project via Databricks [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4292307494740474/1474730470433170/6190017855571830/latest.html)**
 ##### Machine Learning At Scale (Spark, Spark SQL, Spark ML)
+### Access the project via Databricks [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4292307494740474/1474730470433170/6190017855571830/latest.html)
+
 ![image](/images/sparkjobs.png)
 
 Flight delays create problems in scheduling for airlines and airports, leading to passenger inconvenience, and huge economic losses. As a result, there is growing interest in predicting flight delays beforehand in order to optimize operations and improve customer satisfaction. The objective of this playground project is to predict flight departure delays two hours ahead of departure at scale. The project includes an exploration of a series of data transformation and ML pipelines in **Apache Spark** (using Databricks). It concludes with some challenges faced along the journey and some key lessons learned.
